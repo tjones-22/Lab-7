@@ -101,7 +101,7 @@ int main(void) {
 
     while (1) {
         // Uncomment one at a time to test each part
-        // LED_Part1();
+        LED_Part1();
         // LED_Part2();
         // LED_Part3();
     }
